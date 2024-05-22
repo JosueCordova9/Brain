@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "5adbd2edb49b976a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d83a2ed1e7f5356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46f127723dfa7884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recursos/Recursos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6f2be13a6de0681",
+    "type": "split",
+    "children": [
+      {
+        "id": "e68bff7c61789439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b67843d95f7504e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "315b227d8c9ce5a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Linux",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51cff57c820f40c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "350b7f788d9fad14",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2be7edb6f02202d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425d99a0153fb95e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recursos/Recursos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc7fc358e6585332",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Recursos/Recursos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09fc99d9def4a5b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81e2ea2269b79dea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Recursos/Recursos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "publish:Publicar cambios": false
+    }
+  },
+  "active": "315b227d8c9ce5a3",
+  "lastOpenFiles": [
+    "Recursos/Pacman.md",
+    "Recursos/Recursos.md",
+    "Recursos/8348d5eb-ea42-45c9-aedf-5aae29f2ea11_Export-af637125-f06b-4536-bc3d-dedebc22bb42/Recursos a98b6fc595f1475f8836ec843ccadcaa/Recursos 0759ac30af8a44a291dcce409866a063_all.csv",
+    "Recursos/8348d5eb-ea42-45c9-aedf-5aae29f2ea11_Export-af637125-f06b-4536-bc3d-dedebc22bb42/Recursos a98b6fc595f1475f8836ec843ccadcaa/Recursos 0759ac30af8a44a291dcce409866a063.csv",
+    "Recursos/8348d5eb-ea42-45c9-aedf-5aae29f2ea11_Export-af637125-f06b-4536-bc3d-dedebc22bb42/Recursos a98b6fc595f1475f8836ec843ccadcaa.md",
+    "Recursos/8348d5eb-ea42-45c9-aedf-5aae29f2ea11_Export-af637125-f06b-4536-bc3d-dedebc22bb42/Recursos a98b6fc595f1475f8836ec843ccadcaa",
+    "Recursos/8348d5eb-ea42-45c9-aedf-5aae29f2ea11_Export-af637125-f06b-4536-bc3d-dedebc22bb42",
+    "Recursos/8348d5eb-ea42-45c9-aedf-5aae29f2ea11_Export-af637125-f06b-4536-bc3d-dedebc22bb42.zip",
+    "Recursos",
+    "Brain/ejemplo.md",
+    "Brain/Otro ejemplo.md",
+    "conflict-files-obsidian-git.md",
+    "Brain"
+  ]
+}
