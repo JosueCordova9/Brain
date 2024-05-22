@@ -1,1 +1,1 @@
-Hola soy josue
+Hola soy josue cordova y esto es una prueba de Sincronizacion
